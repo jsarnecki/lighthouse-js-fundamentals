@@ -4,3 +4,7 @@ const ageCalculator = function(name, birthYear, currentYear){
 };
 
 console.log(ageCalculator("Guy", 1969, 2021));
+
+const howManyHundred = function(num){
+  
+}
